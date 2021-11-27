@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+
+[user]
+	name = Yadwinder Singh
+	email = yadwinder.cloud@gmail.com
+[remote "origin"]
+	url = git@github.com:axainfotech/Database_Monolithic_APP.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
